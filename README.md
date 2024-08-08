@@ -12,6 +12,18 @@
   </a>
 </p>
 
+---
+
+## About Me 🚀
+
+Hi there! I'm Rebecca, a passionate software developer & project manager based in Calgary, AB, Canada. With a knack for problem-solving and a love for learning new technologies, I enjoy creating innovative solutions to real-world problems. 
+
+My expertise spans across multiple programming languages, including Python, JavaScript, C#, and Java. I have hands-on experience with .NET MAUI, MongoDB, and SQL Database, among other tools and technologies.
+
+When I'm not coding, you can find me exploring the latest trends in tech, working on my next big project, or enjoying a good movie. Let's connect and build something amazing together!
+
+---
+
 
   <p align="center">
     <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white">
@@ -26,6 +38,11 @@
     <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
    
   </p>
+
+
+
+
+
 
 
 
